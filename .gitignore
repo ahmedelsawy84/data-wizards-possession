@@ -1,0 +1,12 @@
+# Restricted competition dataset
+data/
+*.mp4
+*_atd.txt
+*_atd.xml
+*_homography.csv
+*_smart_tagging.xml
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
